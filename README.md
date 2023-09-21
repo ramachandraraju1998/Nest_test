@@ -14,6 +14,7 @@ Api's
 
 GET ALL PRODUCTS
 ----------------
+<br/>
 APi Type : GET<br/>
 url : localhost:3000/store/products
 <br/>
@@ -31,7 +32,7 @@ POST JSON DATA:<br/>
 }
 <br/>
 
-GET ALL ORDERS=
+GET ALL ORDERS
 ----------------
 APi Type : GET<br/>
 url : localhost:3000/store/order<br/>
