@@ -1,21 +1,21 @@
-Project config:
-git clone https://github.com/ramachandraraju1998/Nest_test.git
-Install dependencies 
-Command => npm i
+Project config: <br/>
+git clone https://github.com/ramachandraraju1998/Nest_test.git<br/>
+Install dependencies <br/>
+Command => npm i <br/>
+<br/>
+Db Config:<br/>
+MongoDb should run locally, create a Database with name store<br/>
 
-Db Config:
-MongoDb should run locally, create a Database with name store
+Start Application <br/>
+Command => npm start run<br/>
 
-Start Application 
-Command => npm start run
-
-Api's
-GET ALL PRODUCTS
+Api's<br/>
+GET ALL PRODUCTS<br/>
 ----------------
-APi Type : GET
-url : localhost:3000/store/products
+APi Type : GET<br/>
+url : localhost:3000/store/products<br/>
 
-ADD PRODUCTS
+ADD PRODUCTS<br/>
 ------------
 APi Type : POST
 url : localhost:3000/store/products
