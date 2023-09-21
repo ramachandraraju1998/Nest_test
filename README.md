@@ -17,36 +17,36 @@ url : localhost:3000/store/products<br/>
 
 ADD PRODUCTS<br/>
 ------------
-APi Type : POST
-url : localhost:3000/store/products
-POST JSON DATA:
-{
-    "productid": "650badc580291bfad7040f14",
-    "name": "product1",
-    "description": "test",
-    "price": 50000,
-    "category": "Home App"
-}
-
-
-GET ALL ORDERS
+APi Type : POST<br/>
+url : localhost:3000/store/products<br/>
+POST JSON DATA:<br/>
+{<br/>
+    "productid": "650badc580291bfad7040f14",<br/>
+    "name": "product1",<br/>
+    "description": "test",<br/>
+    "price": 50000,<br/>
+    "category": "Home App"<br/>
+}<br/>
+<br/>
+<br/>
+GET ALL ORDERS<br/>
 ----------------
-APi Type : GET
-url : localhost:3000/store/order
+APi Type : GET<br/>
+url : localhost:3000/store/order<br/>
 
-ADD PROFUCTS
+ADD PROFUCTS<br/>
 ------------
-APi Type : POST
-url : localhost:3000/store/order
-POST JSON DATA:
-{
-    "orderaddress": "test address1",
-    "productdetails": {
-        "productid": "650badc580291bfad7040f14",
-        "name": "product1",
-        "description": "test",
-        "price": 50000,
-        "category": "Home App"
-    }
-    
-}
+APi Type : POST<br/>
+url : localhost:3000/store/order<br/>
+POST JSON DATA:<br/>
+{<br/>
+    "orderaddress": "test address1",<br/>
+    "productdetails": {<br/>
+        "productid": "650badc580291bfad7040f14",<br/>
+        "name": "product1",<br/>
+        "description": "test",<br/>
+        "price": 50000,<br/>
+        "category": "Home App"<br/>
+    }<br/>
+    <br/>
+}<br/>
