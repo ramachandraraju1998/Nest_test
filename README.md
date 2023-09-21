@@ -9,7 +9,9 @@ MongoDb should run locally, create a Database with name store<br/>
 Start Application <br/>
 Command => npm start run<br/>
 
-Api's<br/>
+Api's
+<br/>
+
 GET ALL PRODUCTS
 ----------------
 APi Type : GET<br/>
@@ -26,9 +28,9 @@ POST JSON DATA:<br/>
     "description": "test",<br/>
     "price": 50000,<br/>
     "category": "Home App"<br/>
-}<br/>
+}
 <br/>
-<br/>
+
 GET ALL ORDERS=
 ----------------
 APi Type : GET<br/>
