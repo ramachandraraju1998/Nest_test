@@ -10,12 +10,12 @@ Start Application <br/>
 Command => npm start run<br/>
 
 Api's<br/>
-GET ALL PRODUCTS<br/>
+GET ALL PRODUCTS
 ----------------
 APi Type : GET<br/>
-url : localhost:3000/store/products<br/>
-
-ADD PRODUCTS<br/>
+url : localhost:3000/store/products
+<br/>
+ADD PRODUCTS
 ------------
 APi Type : POST<br/>
 url : localhost:3000/store/products<br/>
@@ -29,12 +29,12 @@ POST JSON DATA:<br/>
 }<br/>
 <br/>
 <br/>
-GET ALL ORDERS<br/>
+GET ALL ORDERS=
 ----------------
 APi Type : GET<br/>
 url : localhost:3000/store/order<br/>
 
-ADD PROFUCTS<br/>
+ADD PROFUCTS
 ------------
 APi Type : POST<br/>
 url : localhost:3000/store/order<br/>
